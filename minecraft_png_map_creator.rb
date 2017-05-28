@@ -27,8 +27,8 @@ File.open("function.txt", "w") do |file|
       arr = [ChunkyPNG::Color.r(png[x,y]),
              ChunkyPNG::Color.g(png[x,y]),
              ChunkyPNG::Color.b(png[x,y])]
-      wool_data_tag = colors[arr]
-      file.puts "/setblock #{x - 64} 100 #{y - 64} concrete #{wool_data_tag}\n"
+      data_tag = colors[arr]
+      file.puts "/setblock #{x - 64} 100 #{y - 64} concrete #{data_tag}\n"
     end
   end
 end
