@@ -1,0 +1,1 @@
+This is where the function.txt file will apear when you run the program. Put the file.png file in here as your picture. If the picture is to small, the program will fail/crash, so make it 128 by 128 pixels. Thanks for downloading this! If you want to showcase this, please give my chanel, https://www.youtube.com/channel/UCLVsMxA0wUltcukQZef48wA, credit.
